@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"node",
+				"nodemon"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"A",
+				"Arrays"
+			],
+			[
+				"currn",
+				"currentIndex"
+			],
+			[
+				"curr",
+				"currentIndex"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"ne",
+				"nextNextValue"
+			],
+			[
+				"ma",
+				"max"
+			],
+			[
+				"tes",
+				"testingArray"
+			],
+			[
+				"max",
+				"maxGain"
+			],
+			[
+				"div",
+				"divFreq"
+			],
+			[
+				"comp",
+				"Comparable"
+			],
+			[
+				"E",
+				"EXIT"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"print",
+				"printInvestment"
+			],
+			[
+				"test",
+				"testY"
+			],
+			[
+				"pro",
+				"processedNodes"
+			],
+			[
+				"adja",
+				"adjacencyList"
+			],
+			[
+				"in",
+				"incoming"
+			],
+			[
+				"ad",
+				"adjacencyList"
+			],
+			[
+				"printl",
+				"println"
+			],
+			[
+				"compare",
+				"compareTo"
+			],
+			[
+				"cont",
+				"contains"
+			],
+			[
+				"next",
+				"nextNode"
+			],
+			[
+				"nex",
+				"nextNode"
+			],
+			[
+				"delet",
+				"deleteNode"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"con",
+				"contains"
+			],
+			[
+				"current",
+				"currentNode"
+			],
+			[
+				"point",
+				"pointers"
+			],
+			[
+				"bre",
+				"breadcrumbsIndex"
+			],
+			[
+				"any",
+				"AnyType"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"po",
+				"pointers"
+			],
+			[
+				"get",
+				"getMaxHeight"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"for",
+				"for\tfor"
+			],
+			[
+				"pr",
+				"print"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/taylo/Desktop/WebsitePractice",
+		"/C/Users/taylo/Desktop/WebsitePractice/public",
+		"/C/Users/taylo/Desktop/WebsitePractice/views",
+		"/C/Users/taylo/Desktop/WebsitePractice/views/layouts"
+	],
+	"file_history":
+	[
+		"/C/Users/taylo/Desktop/WebsitePractice/WebsitePracticeProject.sublime-project",
+		"/C/Users/taylo/Desktop/COP3402HW1/vm.c",
+		"/C/Users/taylo/Desktop/WebsitePractice/views/home.handlebars",
+		"/C/Users/taylo/Desktop/WebsitePractice/index.js",
+		"/C/Users/taylo/Desktop/WebsitePractice/views/layouts/main.handlebars",
+		"/C/Users/taylo/Desktop/WebsitePractice/package.json",
+		"/C/Users/taylo/Desktop/WebsitePractice/public/index.html",
+		"/C/Users/taylo/Desktop/WebsitePractice/public/about.html",
+		"/C/Users/taylo/Desktop/WebsitePractice/package-lock.json",
+		"/C/Users/taylo/Desktop/WebsiteProject/index.js",
+		"/C/Users/taylo/Desktop/StockProject/app.js",
+		"/C/Users/taylo/Desktop/StockProject/public/app.html",
+		"/C/Users/taylo/Desktop/StockProject/package.json",
+		"/C/Users/taylo/Desktop/RunLikeHell/RunLikeHell.java",
+		"/C/Users/taylo/Downloads/RunLikeHell.java",
+		"/C/Users/taylo/Desktop/CS2Final.java",
+		"/C/Users/taylo/Desktop/RunLikeHell/TestCase06.java",
+		"/C/Users/taylo/Desktop/StockCalculator.java",
+		"/C/Users/taylo/Desktop/DividendPortfolio.java",
+		"/C/Users/taylo/Downloads/RunLikeHell (1).java",
+		"/C/Users/taylo/Downloads/FloydWarshall.java",
+		"/C/Users/taylo/Desktop/SkipList/SkipList.java",
+		"/C/Users/taylo/Downloads/Graph (1).java",
+		"/C/Users/taylo/Downloads/Fibonacci.java",
+		"/C/Users/taylo/Downloads/Binomial.java",
+		"/C/Users/taylo/Desktop/Pathogen/Pathogen.java",
+		"/C/Users/taylo/Downloads/toposort (1).java",
+		"/C/Users/taylo/Desktop/RunLikeHell/Knapsack.java",
+		"/C/Users/taylo/Downloads/Knapsack.java",
+		"/C/Users/taylo/Downloads/Pathogen (1).java",
+		"/C/Users/taylo/Downloads/program06-testcases/TestCase12.java",
+		"/C/Users/taylo/Desktop/Pathogen/TestCase03.java",
+		"/C/Users/taylo/Downloads/Pathogen.java",
+		"/C/Users/taylo/Desktop/ConstrainedTopoSort/ConstrainedTopoSort.java",
+		"/C/Users/taylo/AppData/Local/Temp/Temp1_program05-testcases.zip/TestCase10.java",
+		"/C/Users/taylo/Desktop/Pathogen/OldPathogen.java",
+		"/C/Users/taylo/Downloads/ConstrainedTopoSort.java",
+		"/C/Users/taylo/AppData/Local/Temp/Temp1_Pathogen (1).zip/Pathogen.java",
+		"/C/Users/taylo/Downloads/Pathogen (1)/Pathogen.java",
+		"/C/Users/taylo/Desktop/Pathogen/TestCase02.java",
+		"/C/Users/taylo/Desktop/Pathogen/TestCase01.java",
+		"/C/Users/taylo/Desktop/ConstrainedTopoSort/TestCase06.java",
+		"/C/Users/taylo/Downloads/Graph.java",
+		"/C/Users/taylo/Downloads/toposort.java",
+		"/C/Users/taylo/Desktop/ConstrainedTopoSort/OldConstrainedTopoSort.java",
+		"/C/Users/taylo/Desktop/ConstrainedTopoSort/TestCase03.java",
+		"/C/Users/taylo/Desktop/ConstrainedTopoSort/TestCase04.java",
+		"/C/Users/taylo/Desktop/ConstrainedTopoSort/TestCase05.java",
+		"/C/Users/taylo/Desktop/ConstrainedTopoSort/TestCase02.java",
+		"/C/Users/taylo/Desktop/ConstrainedTopoSort/TestCase01.java",
+		"/C/Users/taylo/Downloads/program04-testcases/Bonus02.java",
+		"/C/Users/taylo/AppData/Local/Temp/Temp1_program04-testcases.zip/Bonus01.java",
+		"/C/Users/taylo/Downloads/SkipList (1).java",
+		"/C/Users/taylo/Desktop/SkipList/SpecialTestCase4u.java",
+		"/C/Users/taylo/Desktop/Person.java",
+		"/C/Users/taylo/AppData/Local/Temp/Temp1_maze_backtracking.zip/maze.c",
+		"/C/Users/taylo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/taylo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/taylo/Downloads/SkipList.java",
+		"/C/Users/taylo/Desktop/SkipList/TestCase06.java",
+		"/C/Users/taylo/Desktop/VanillaLinkedList.java",
+		"/C/Users/taylo/Desktop/Cluster.java",
+		"/C/Users/taylo/Desktop/SkipListStart.java",
+		"/C/Users/taylo/Desktop/GenericBST.java",
+		"/C/Users/taylo/Desktop/SkipList/TestCase13.java",
+		"/C/Users/taylo/Desktop/SkipList/TestCase08.java",
+		"/C/Users/taylo/Desktop/SkipList/TestCase09.java",
+		"/C/Users/taylo/Desktop/SkipList/TestCase14.java",
+		"/C/Users/taylo/Desktop/SkipList/TestCase10.java",
+		"/C/Users/taylo/Desktop/SkipList/TestCase07.java",
+		"/C/Users/taylo/Desktop/SkipList/TestCase01.java",
+		"/C/Users/taylo/Desktop/approx_pi.c",
+		"/C/Users/taylo/Desktop/SkipList/approx_pi.c",
+		"/C/Users/taylo/Desktop/SkipList/RNG.java",
+		"/C/Users/taylo/Desktop/SkipList.java",
+		"/D/Asus Laptop/ComputerScience/CS2/Additional Exercises/SkipList.java",
+		"/D/Asus Laptop/ComputerScience/CS2/SkipList/SkipList_TEMPLATE.java",
+		"/D/Asus Laptop/ComputerScience/CS2/SkipList/SpecialTestCase4u.java",
+		"/C/Users/taylo/Desktop/HelloWorld.java",
+		"/C/Users/taylo/Desktop/test.java"
+	],
+	"find":
+	{
+		"height": 29.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cur_amount",
+			"()));",
+			"adjacencyList",
+			"auto"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.3333333333
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "WebsitePracticeProject.sublime-project",
+	"replace":
+	{
+		"height": 54.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
